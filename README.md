@@ -5,7 +5,7 @@
 ![Project Banner](Screenshot_1.png)
 
 
-![Project Banner](Screenshot 2025-08-13 225902.png)
+![Project Banner](Screenshot_2.png)
 
 ## 📌 Overview
 This project predicts **Diabetic Retinopathy** in patients based on features such as **age**, **systolic blood pressure**, **diastolic blood pressure**, and **cholesterol** levels.  
