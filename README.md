@@ -1,9 +1,6 @@
-# -Diabetic-Retinopathy-Prediction
-
 # 🩺 Diabetic Retinopathy Prediction
 
 ![Project Banner](Screenshot_1.png)
-
 
 
 
