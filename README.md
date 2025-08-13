@@ -2,7 +2,8 @@
 
 # 🩺 Diabetic Retinopathy Prediction
 
-![Project Banner](Screenshot 2025-08-13 225737.png)
+![Project Banner](Screenshot_1.png)
+
 
 ![Project Banner](Screenshot 2025-08-13 225902.png)
 
