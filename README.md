@@ -13,7 +13,7 @@ This project predicts **Diabetic Retinopathy** in patients based on features suc
 It uses multiple machine learning models (SVM, Random Forest, Logistic Regression, KNN, Naive Bayes, XGBoost) and compares performance.
 
 ## 📸 Demo Screenshot
-![Streamlit App Screenshot](assets/app_screenshot.png)
+![Screenshot_1.png)
 
 ## 🚀 Features
 - Multiple ML models trained using **scikit-learn/xgboost**
